@@ -1,0 +1,3 @@
+git add edureka5.txt
+
+I have added edureka5.txt to the index explicitly but not edureka6.txt and made changes in the previous files. I want to commit all changes in the directory at once. Refer to the below snapshot.

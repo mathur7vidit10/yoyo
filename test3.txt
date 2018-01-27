@@ -1,0 +1,5 @@
+I have created two more text files in my working directory viz. edureka5.txt and edureka6.txt but they are not added to the index yet.
+
+I am adding edureka5.txt using the command:
+
+git add edureka5.txt
